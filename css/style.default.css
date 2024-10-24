@@ -329,10 +329,17 @@ SIDEBAR + RIGHT COLUMN
     padding-right: 18px;
   }
 }
+.sidebar-subheading {
+  font-size: 1em;
+  text-transform: uppercase;
+  font-style: italic;
+  letter-spacing: 0.1em;
+}
 .sidebar-heading {
-  font-size: 18px;
+  font-size: 1.2em;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  margin-bottom: 0.1em;
 }
 .sidebar-heading a {
   color: #000;
