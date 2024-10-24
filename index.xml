@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Valentina Verduci</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.valentinaverduci.com/</link>
     <description>Recent content on Valentina Verduci</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.valentinaverduci.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Showreel 2024</title>
-      <link>http://localhost:1313/home/</link>
+      <link>https://www.valentinaverduci.com/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/</guid>
+      <guid>https://www.valentinaverduci.com/home/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/1022042696&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;showreel-2021&#34;&gt;Showreel 2021&lt;/h3&gt;&#xA;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://player.vimeo.com/video/661479830&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;vimeo video&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
